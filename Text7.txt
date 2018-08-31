@@ -1,0 +1,2 @@
+Zadaci u programiranju nisu teški.
+Napisati program koji prima kao argument ime fiela.

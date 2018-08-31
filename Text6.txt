@@ -1,0 +1,1 @@
+Napisatiprogram koji prima kao argument ime filea. Nakon što je program uèitao file, nalazi najdužu rijeè u svakoj liniji teksta te ispisuje istu korisniku.
